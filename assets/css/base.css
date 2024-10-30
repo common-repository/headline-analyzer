@@ -1,0 +1,8 @@
+.headline-studio-onboarding,
+.headline-studio-settings,
+.headlinestudio-gutenberg-sidebar-iframe-container,
+.headline-studio-onboarding *,
+.headline-studio-settings *,
+.headlinestudio-gutenberg-sidebar-iframe-container * {
+  box-sizing: border-box;
+}
